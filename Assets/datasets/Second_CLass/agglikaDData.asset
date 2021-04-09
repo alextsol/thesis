@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb03bf448d4ef3144b6c97e7ac2018b7, type: 3}
+  m_Name: agglikaDData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionInfo: 12 +37 Please write the result in english
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    options:
+    - FortyTwo
+    - FortyNine
+    - NinetyFour
+    - FourTeen
+    correctAnswer: FortyNine
+  - questionInfo: Today is Monday, tommorow is Thuesday. What is the next day?
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    options:
+    - Thursday
+    - 'Wednesday '
+    - Saturday
+    - Friday
+    correctAnswer: 'Wednesday '
+  - questionInfo: "\u03A0\u03C9\u03C2 \u03BB\u03AD\u03B3\u03B5\u03C4\u03B1\u03B9 \u03B7
+      \"\u03B1\u03B3\u03B5\u03BB\u03AC\u03B4\u03B1\" \u03C3\u03C4\u03B1 \u0391\u03B3\u03B3\u03BB\u03B9\u03BA\u03AC"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    options:
+    - Bear
+    - Donkey
+    - 'Cow '
+    - Snake
+    correctAnswer: 'Cow '
+  - questionInfo: Select the numerical to EightyThree
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    options:
+    - 38
+    - 13
+    - 18
+    - 83
+    correctAnswer: 83
+  - questionInfo: "\u03A0\u03C9\u03C2 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C3\u03C4\u03B1
+      \u0391\u03B3\u03B3\u03BB\u03AF\u03BA\u03B1 \u03C4\u03BF \u03C0\u03BF\u03B4\u03CC\u03C3\u03C6\u03B1\u03B9\u03C1\u03BF;"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    options:
+    - 'Basketball '
+    - Voleyball
+    - 'Soccer '
+    - 'Football '
+    correctAnswer: 'Football '

@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb03bf448d4ef3144b6c97e7ac2018b7, type: 3}
+  m_Name: ma8hmatikaData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionInfo: "\u03A0\u03BF\u03B9\u03BF \u03B5\u03AF\u03BD\u03B1\u03B9 \u03C4\u03BF
+      \u03C0\u03B7\u03BB\u03AF\u03BA\u03BF \u03C4\u03B7\u03C2 \u03B4\u03B9\u03B1\u03AF\u03C1\u03B5\u03C3\u03B7\u03C2
+      68:1000;"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    options:
+    - 6,800
+    - 68
+    - 0,680
+    - 0,068
+    correctAnswer: 0,068
+  - questionInfo: "\u03A0\u03BF\u03B9\u03BF \u03C3\u03CD\u03BC\u03B2\u03BF\u03BB\u03BF
+      \u03C4\u03B1\u03B9\u03C1\u03B9\u03AC\u03B6\u03B5\u03B9 \u03B1\u03BD\u03AC\u03BC\u03B5\u03C3\u03B1
+      \u03C3\u03C4\u03BF\u03C5\u03C2 \u03B1\u03C1\u03B9\u03B8\u03BC\u03BF\u03CD\u03C2
+      1,25 __ 1,2 "
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    options:
+    - <
+    - '>'
+    - =
+    - '!='
+    correctAnswer: '>'
+  - questionInfo: "\u03A0\u03BF\u03B9\u03BF\u03C2 \u03B5\u03AF\u03BD\u03B1\u03B9 \u03BF
+      \u03B1\u03C1\u03B9\u03B8\u03BC\u03CC\u03C2 \u03C0\u03BF\u03C5 \u03BB\u03B5\u03AF\u03C0\u03B5\u03B9
+      \u03B1\u03C0\u03CC \u03C4\u03B7\u03BD \u03C3\u03B5\u03B9\u03C1\u03AC 5500,5600....,5800"
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    options:
+    - 5400
+    - 5700
+    - 5900
+    - 5300
+    correctAnswer: 5700
+  - questionInfo: "\u039C\u03B9\u03B1 \u03BC\u03B7\u03C4\u03AD\u03C1\u03B1 \u03B1\u03B3\u03CC\u03C1\u03B1\u03C3\u03B5
+      \u03AD\u03BD\u03B1 \u03C0\u03BB\u03C5\u03BD\u03C4\u03AE\u03C1\u03B9\u03BF \u03BC\u03B5
+      1050\u20AC, \u03BC\u03B9\u03B1 \u03B7\u03BB\u03B5\u03BA\u03C4\u03C1\u03B9\u03BA\u03AE
+      \u03BA\u03BF\u03C5\u03B6\u03AF\u03BD\u03B1 815\u20AC \u03BA\u03B1\u03B9 \u03AD\u03BD\u03B1
+      \u03C8\u03C5\u03B3\u03B5\u03AF\u03BF \u03BC\u03B5 1145\u20AC. \u03A0\u03CC\u03C3\u03B1
+      \u20AC \u03C4\u03B7\u03C2 \u03AD\u03BC\u03B5\u03B9\u03BD\u03B1\u03BD \u03B1\u03C0\u03CC
+      \u03C4\u03B1 3500\u20AC \u03C0\u03BF\u03C5 \u03B5\u03AF\u03C7\u03B5 \u03C3\u03C4\u03B7\u03BD
+      \u03B1\u03C1\u03C7\u03AE."
+    questionType: 2
+    questionImg: {fileID: 21300000, guid: db8ef6e0b40b95345a67a54e6045fcaa, type: 3}
+    questionClip: {fileID: 0}
+    options:
+    - 1050
+    - 1090
+    - 990
+    - 490
+    correctAnswer: 490
+  - questionInfo: "\u0388\u03BD\u03B1\u03C2 \u03BC\u03B1\u03BD\u03AC\u03B2\u03B7\u03C2
+      \u03AD\u03C7\u03B5\u03B9 45 \u03BA\u03B9\u03BB\u03AC \u03C0\u03B1\u03C4\u03AC\u03C4\u03B5\u03C2.\u0398\u03AD\u03BB\u03B5\u03B9
+      \u03BD\u03B1 \u03C4\u03B1 \u03BC\u03BF\u03B9\u03C1\u03AC\u03C3\u03B5\u03B9 \u03C3\u03B5
+      \u03C3\u03B1\u03BA\u03BF\u03CD\u03BB\u03B5\u03C2.\u0391\u03BD \u03BA\u03AC\u03B8\u03B5
+      \u03C3\u03B1\u03BA\u03BF\u03CD\u03BB\u03B1 \u03C7\u03C9\u03C1\u03AC\u03B5\u03B9
+      5 \u03BA\u03B9\u03BB\u03AC.\u03A0\u03CC\u03C3\u03B5\u03C2 \u03C3\u03B1\u03BA\u03BF\u03CD\u03BB\u03B5\u03C2
+      \u03B8\u03B1 \u03C7\u03C1\u03B5\u03B9\u03B1\u03C3\u03C4\u03B5\u03AF; "
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    options:
+    - 5
+    - 7
+    - 9
+    - 8
+    correctAnswer: 9
+  - questionInfo: "\u0388\u03BD\u03B1\u03C2 \u03BC\u03B1\u03BD\u03AC\u03B2\u03B7\u03C2
+      \u03AD\u03C7\u03B5\u03B9 45 \u03BA\u03B9\u03BB\u03AC \u03C0\u03B1\u03C4\u03AC\u03C4\u03B5\u03C2.\u0398\u03AD\u03BB\u03B5\u03B9
+      \u03BD\u03B1 \u03C4\u03B1 \u03BC\u03BF\u03B9\u03C1\u03AC\u03C3\u03B5\u03B9 \u03C3\u03B5
+      \u03C3\u03B1\u03BA\u03BF\u03CD\u03BB\u03B5\u03C2.\u0391\u03BD \u03BA\u03AC\u03B8\u03B5
+      \u03C3\u03B1\u03BA\u03BF\u03CD\u03BB\u03B1 \u03C7\u03C9\u03C1\u03AC\u03B5\u03B9
+      5 \u03BA\u03B9\u03BB\u03AC.\u03A0\u03CC\u03C3\u03B5\u03C2 \u03C3\u03B1\u03BA\u03BF\u03CD\u03BB\u03B5\u03C2
+      \u03B8\u03B1 \u03C7\u03C1\u03B5\u03B9\u03B1\u03C3\u03C4\u03B5\u03AF; "
+    questionType: 0
+    questionImg: {fileID: 0}
+    questionClip: {fileID: 0}
+    options:
+    - 5
+    - 7
+    - 9
+    - 8
+    correctAnswer: 9
